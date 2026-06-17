@@ -1,0 +1,9 @@
+streamlit>=1.32
+pandas
+# python -m venv venv
+# venv\Scripts\activate
+
+#  .\venv\Scripts\Activate.ps1
+# winget install --id Microsoft.VCRedist.2015+.x64 -e
+# pip install streamlit tensorflow numpy pillow
+# streamlit run app.py
